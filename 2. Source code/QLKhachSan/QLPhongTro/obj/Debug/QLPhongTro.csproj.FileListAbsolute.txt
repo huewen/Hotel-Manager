@@ -1,0 +1,23 @@
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csprojResolveAssemblyReference.cache
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.Cache
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csprojAssemblyReference.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb

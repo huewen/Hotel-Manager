@@ -1,0 +1,60 @@
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLKhachSan.csprojAssemblyReference.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmDanhSachPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmDangNhap.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmDanhMucPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmHoaDon.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmBaoCaoTheoLoaiPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmPhieuThue.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMatDoSuDung.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLPhongTro\QLPhongTro (1)\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmLienHe.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csprojAssemblyReference.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmBaoCaoTheoLoaiPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDangNhap.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDanhMucPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDanhSachPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmHoaDon.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmLienHe.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmMatDoSuDung.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmXuLyPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThuePhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThemLoaiKhach.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThemKhachHang.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csprojAssemblyReference.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmBaoCaoTheoLoaiPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDangNhap.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDanhMucPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmDanhSachPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmHoaDon.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmLienHe.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmMatDoSuDung.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThemLoaiKhach.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThemKhachHang.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmThuePhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.frmXuLyPhong.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\Documents\MonHocHKI(2023)\LTWindows\LTTQ_Nhom06\LLTQ_Nhom06\2. Source code\QLKhachSan\QLPhongTro\obj\Debug\QLPhongTro.pdb
